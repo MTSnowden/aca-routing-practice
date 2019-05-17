@@ -1,3 +1,6 @@
 .header {
-  display: none;
+  display: flex;
+  color: red;
+  font-size: 30px;
+  margin: 0 auto;
 }
